@@ -1,1 +1,1 @@
-The scripts of `Towards Coarse-to-Fine Analysis of Large Language Models Inference Efficiency`.
+The scripts of `Towards Coarse-to-Fine Evaluation of Inference Efficiency for Large Language Models`.
